@@ -14,3 +14,5 @@ The objective was to develop a responsive website for a fictitions business name
                     7) Contact : An interactive contact form and essential company details.
    
 3. Footer : - copyrights information, links to socialmedia profiles.
+
+Website is live you can checkout this webpage here, click on this link - digitalcraftstudiobytony.42web.io 
